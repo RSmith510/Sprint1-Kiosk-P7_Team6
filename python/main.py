@@ -1,6 +1,10 @@
 # BCH Software Inc. - Sprint 1: Interactive Kiosk
 # Track: Python Software Engineering
+<<<<<<< HEAD
 # 8/21 Tanner Soldinski
+=======
+# 8/21/ryan
+>>>>>>> origin/main
 
 def main():
     print("========================================")
