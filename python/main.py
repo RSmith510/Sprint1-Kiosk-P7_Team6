@@ -1,5 +1,8 @@
 # BCH Software Inc. - Sprint 1: Interactive Kiosk
 # Track: Python Software Engineering
+<<<<<<< HEAD
+# 8/21 Tanner Soldinski
+=======
 # 8/21/ryan
 # code only prints correct ASCII format if you use 
 # name = Jane Doe
