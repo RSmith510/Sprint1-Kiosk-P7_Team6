@@ -1,5 +1,6 @@
 # BCH Software Inc. - Sprint 1: Interactive Kiosk
 # Track: Python Software Engineering
+<<<<<<< Updated upstream
 # <<<<<<< HEAD
 # 8/21 Tanner Soldinski
 # =======
@@ -9,6 +10,10 @@
 # org BCH Cybersecurity Division
 # contact jdoe@bchsoftware.org
 # access VIP ALL-ACCESS
+=======
+#8/21 braylon underwood
+
+>>>>>>> Stashed changes
 def main():
     print("========================================")
     print("      BCH ENTERPRISE VISITOR KIOSK      ")
